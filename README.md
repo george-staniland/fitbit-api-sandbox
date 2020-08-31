@@ -18,8 +18,9 @@ What data do we wish to use from my Fitbit? and how can we interpret, visualise 
 
 ## Accesible Data and Possible Uses:
 
-So far through the API I can access the model of my Fitbit and current battery level, thrilling!
+#### So far through the API I can access the model of my Fitbit and current battery level, thrilling!
 <img src="readme-images/Screen Shot 2020-08-31 at 3.39.20 PM.png" width="400">
 
-Slightly more interestingly I can access my activity levels on an a specific date, it could be helpful to visualise my daily step count in an creative way.
+#### Slightly more interestingly I can access my activity levels on an a specific date, it could be helpful to visualise my daily step count in an creative way.
+<br/>
 <img src="readme-images/Screen Shot 2020-08-31 at 4.00.07 PM.png" width="400">
