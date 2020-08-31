@@ -24,3 +24,5 @@ What data do we wish to use from my Fitbit? and how can we interpret, visualise 
 #### Slightly more interestingly I can access my activity levels on an a specific date, it could be helpful to visualise my daily step count in an creative way.
 <br/>
 <img src="readme-images/Screen Shot 2020-08-31 at 4.00.07 PM.png" width="400">
+
+### Visualistion of Daily Step Count
