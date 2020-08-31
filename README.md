@@ -1,28 +1,20 @@
-# A starter webpack project for React
+# Fitbit API Experiment
 
-This is a starter project that uses webpack to transpile and bundle ES6 React code. To use, consider these steps:
+## Start of the project
 
-* Fork this repo
-* Rename your repo according to the app you're building
+Started by registering an App on https://dev.fitbit.com/
+Then used the OAuth 2.0 process
+Authorized access to Data of my own Fitbit Device
+Recieved Auth Code 
+Used Postman to send a HTTP GET Request to https://api.fitbit.com/oauth2/token
+In response we recieve an access token in place of our Auth Code
+We can now make GET Request's to the Fitbit API using our Access token and recieve data from my Fitbit in response
+This site https://dev.fitbit.com/build/reference/web-api/explore/ outlines the request possible to the Fitbit Web API
 
-```sh
-git clone https://github.com/[your-account]/[your-app].git
-cd [your-app] && npm i
-```
+## Current Challenges:
+Access Tokens only last 8 hours before needing to be refreshed, this request is part of a React application how will this Access Token refresh occour?
+What data do we wish to use from my Fitbit? and how can we interpret, visualise or utilise the data?
 
-To start the development server with a watcher that rebuilds your code, run `npm run dev`. The assets built by webpack are placed in `server/public`. This folder is defined as a static folder in an Express.js server that can be started with `npm run server`.
 
-Additional components should be placed in `client/components`.
-
-## Separate client/server
-
-The boilerplate is also set up to host the client using `webpack-dev-server` with hot module reloading etc. To use this method, in one terminal run:
-```sh
-npm run client
-```
-and in the other:
-```sh
-npm run server
-```
-The client will be available on http://localhost:8080 and the server on http://localhost:3000. Note that you will still need to manage CORS between the two, as they are on different ports.
+## Accesible Data and Possible Uses:
 
