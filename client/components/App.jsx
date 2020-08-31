@@ -1,8 +1,10 @@
 import React from 'react'
+import Data from './DataTest'
+
 
 const App = () => {
   return (
-    <h1>React development has begun!</h1>
+    <Data />
   )
 }
 
