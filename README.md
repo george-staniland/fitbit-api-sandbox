@@ -2,18 +2,15 @@
 
 ## Start of the project
 
-Started by registering an App on https://dev.fitbit.com/
-Then used the OAuth 2.0 process
-Authorized access to Data of my own Fitbit Device
-Recieved Auth Code 
-Used Postman to send a HTTP GET Request to https://api.fitbit.com/oauth2/token
-In response we recieve an access token in place of our Auth Code
-We can now make GET Request's to the Fitbit API using our Access token and recieve data from my Fitbit in response
-This site https://dev.fitbit.com/build/reference/web-api/explore/ outlines the request possible to the Fitbit Web API
+* Started by registering an App on https://dev.fitbit.com/
+* Then used the OAuth 2.0 process
+* Authorized access to Data of my own Fitbit Device
+* After getting an access token we can now make GET requests to Fitbit's web API
+* This site https://dev.fitbit.com/build/reference/web-api/explore/ outlines possible requests to the Fitbit Web API
 
 ## Current Challenges:
-Access Tokens only last 8 hours before needing to be refreshed, this request is part of a React application how will this Access Token refresh occour?
-What data do we wish to use from my Fitbit? and how can we interpret, visualise or utilise the data?
+* Access Tokens only last 8 hours before needing to be refreshed, can this be done programatically with Javascript inside our React app?
+* What data do we wish to use from the API? How can we interpret, visualise or utilise the data?
 
 
 ## Accesible Data and Possible Uses:
@@ -36,9 +33,10 @@ What data do we wish to use from my Fitbit? and how can we interpret, visualise 
 ### Initial Desktop and Iphone Layout
 <img src="readme-images/wireframe-2.png" width="500">
 <img src="readme-images/Wireframe-iPhone-2.png" height="600">
-### Desktop Exploration
-<img src="readme-images/Wireframe-1.png" width="500">
-<img src="readme-images/wireframe-3.png" width="500">
+
+### Desktop Wireframes Iteration
+<img src="readme-images/Wireframe-1.png" width="700">
+<img src="readme-images/wireframe-3.png" width="700">
 
 
 
