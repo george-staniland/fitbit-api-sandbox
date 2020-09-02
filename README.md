@@ -25,18 +25,18 @@ What data do we wish to use from my Fitbit? and how can we interpret, visualise 
 <br/>
 <img src="readme-images/Screen Shot 2020-08-31 at 4.00.07 PM.png" width="400">
 
-### Current Project Ideas and Purpose 
+## Current Project Ideas and Purpose 
 
 * Single page app the shows current day on load with lastest step count + three days previous
 * Number of steps rendered as Jelly Beans or something interesting
 * Experimenting with methods of visualising data
 * Optimise for Desktop and Mobile
 
-### Early Wirefames
+## Early Wirefames
 ### Initial Desktop and Iphone Layout
 <img src="readme-images/wireframe-2.png" width="500">
 <img src="readme-images/Wireframe-iPhone-2.png" height="600">
-### Desktop exploration
+### Desktop Exploration
 <img src="readme-images/Wireframe-1.png" width="500">
 <img src="readme-images/wireframe-3.png" width="500">
 
