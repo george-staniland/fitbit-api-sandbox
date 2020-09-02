@@ -33,12 +33,12 @@ What data do we wish to use from my Fitbit? and how can we interpret, visualise 
 * Optimise for Desktop and Mobile
 
 ### Early Wirefames
-
-<img src="readme-images/Wireframe-2.png" width="400">
-<img src="readme-images/Wireframe-iPhone-2.png" width="400">
-
-<img src="readme-images/Wireframe-1.png" width="400">
-<img src="readme-images/Wireframe-3.png" width="400">
+### Initial Desktop and Iphone Layout
+<img src="readme-images/wireframe-2.png" width="500">
+<img src="readme-images/Wireframe-iPhone-2.png" height="600">
+### Desktop exploration
+<img src="readme-images/Wireframe-1.png" width="500">
+<img src="readme-images/wireframe-3.png" width="500">
 
 
 
