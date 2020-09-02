@@ -30,11 +30,11 @@
 * Optimise for Desktop and Mobile
 
 ## Early Wirefames
-### Initial Desktop and Iphone Layout
-<img src="readme-images/wireframe-2.png" width="500">
-<img src="readme-images/Wireframe-iPhone-2.png" height="600">
+### Initial desktop and mobile layout
+<img src="readme-images/wireframe-2.png" width="700">
+<img src="readme-images/Wireframe-iPhone-2.png" width="200">
 
-### Desktop Wireframes Iteration
+### Desktop design iteration
 <img src="readme-images/Wireframe-1.png" width="700">
 <img src="readme-images/wireframe-3.png" width="700">
 
