@@ -1,14 +1,14 @@
-# Fitbit API Experiment
+# Fitbit API Experiment 🏃 
 
 ## Start of the project
 
 * Started by registering an App on https://dev.fitbit.com/
 * Then used the OAuth 2.0 process
-* Authorized access to Data of my own Fitbit Device
+* Authorized access to data of my own Fitbit Device
 * After getting an access token we can now make GET requests to Fitbit's web API
 * This site https://dev.fitbit.com/build/reference/web-api/explore/ outlines possible requests to the Fitbit Web API
 
-## Current Challenges:
+## Current Challenges: ✏️ 
 * Access Tokens only last 8 hours before needing to be refreshed, can this be done programatically with Javascript inside our React app?
 * What data do we wish to use from the API? How can we interpret, visualise or utilise the data?
 
