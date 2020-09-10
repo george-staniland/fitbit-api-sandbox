@@ -29,7 +29,7 @@
 * Experimenting with methods of visualising data
 * Optimise for Desktop and Mobile
 
-## Early Wirefames
+## Early Wirefames w/ Adobe xd
 ### Initial desktop and mobile layout
 <img src="readme-images/wireframe-2.png" width="700">
 <img src="readme-images/Wireframe-iPhone-2.png" width="200">
