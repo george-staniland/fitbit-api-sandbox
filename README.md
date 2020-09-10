@@ -30,11 +30,11 @@
 * Optimise for Desktop and Mobile
 
 ## Early Wirefames w/ Adobe xd
-### Initial desktop and mobile layout
+### Initial Desktop and Mobile Layout
 <img src="readme-images/wireframe-2.png" width="700">
 <img src="readme-images/Wireframe-iPhone-2.png" width="200">
 
-### Desktop design iteration
+### Desktop Design Iteration
 <img src="readme-images/Wireframe-1.png" width="700">
 <img src="readme-images/wireframe-3.png" width="700">
 
