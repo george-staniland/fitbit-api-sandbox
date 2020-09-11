@@ -1,6 +1,11 @@
 # Fitbit API Experiment 🏃 
 # Project under construction 🚧 
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ## Start of the project
 
 * Started by registering an App on https://dev.fitbit.com/
