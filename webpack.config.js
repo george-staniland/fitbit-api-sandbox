@@ -1,4 +1,5 @@
 const path = require('path')
+const Dotenv = require('dotenv-webpack')
 
 module.exports = {
   entry: './client/index.js',
@@ -7,6 +8,10 @@ module.exports = {
     filename: 'bundle.js'
   },
   mode: 'development',
+  plugins: [
+    new Dotenv()
+    // new webpack.EnvironmentPlugin(['FITBIT_AUTH'])
+  ],
   module: {
     rules: [{
       test: /\.jsx?$/,
