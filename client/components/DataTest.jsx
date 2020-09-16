@@ -9,9 +9,9 @@ class Data extends React.Component {
 
     componentDidMount() {
         getApiData()
-        .then (res => {
+        .then (response => {
             this.setState ({
-                steps: res
+                steps: response
             })
         })
       }
