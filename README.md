@@ -22,7 +22,7 @@
 ## Accesible Data and Possible Uses:
 
 #### Making requests to the API with PostMan
-<img src="readme-images/Screen Shot 2020-09-16 at 3.06.03 PM.png" width="400">
+<img src="readme-images/Screen Shot 2020-09-16 at 3.06.03 PM.png" width="700">
 
 #### So far through the API I can access the model of my Fitbit and current battery level, thrilling!
 <img src="readme-images/Screen Shot 2020-08-31 at 3.39.20 PM.png" width="400">
