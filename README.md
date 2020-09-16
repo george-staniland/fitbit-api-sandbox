@@ -21,12 +21,18 @@
 
 ## Accesible Data and Possible Uses:
 
+#### Making requests to the API with PostMan
+<img src="readme-images/Screen Shot 2020-09-16 at 3.06.03 PM.png" width="400">
+
 #### So far through the API I can access the model of my Fitbit and current battery level, thrilling!
 <img src="readme-images/Screen Shot 2020-08-31 at 3.39.20 PM.png" width="400">
 
 #### Slightly more interestingly I can access my activity levels on an a specific date, it could be helpful to visualise my daily step count in an creative way.
 <br/>
 <img src="readme-images/Screen Shot 2020-08-31 at 4.00.07 PM.png" width="400">
+
+
+
 
 ## Current Project Ideas and Purpose 
 
