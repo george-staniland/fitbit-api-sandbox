@@ -1,18 +1,33 @@
 body {
     background-color: bisque;
     font-family: 'Courier New', Courier, monospace;
-    font-size: 2.2vmax;
 }
 
-.container{
-    position: relative;
-    height: 1000px;
-    display: flex;
-  align-items: center;
-  justify-content: center;
+h1{ 
+  font-size: 3vw;  
 }
 
-#contanier-step-count{
-    background-color: cadetblue;
-    padding: 20px;
+.wrapper{
+display: grid;
+grid-template-columns: 70% 30%;
+grid-column-gap: 1em;
+}
+
+#right-col{
+height: 90vh;
+}
+
+#right-col > button {
+    padding: 10px;
+    max-width: 150px;
+    margin: 10px
+}
+
+#left-col{
+height: 90vh;
+}
+
+#landing-page-title{
+text-align: right;
+max-width: 310px;
 }

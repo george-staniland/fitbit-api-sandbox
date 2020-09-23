@@ -1,10 +1,10 @@
 import React from 'react'
-import DataTest from './DataTest'
+import HomePage from './HomePage'
 
 
 const App = () => {
   return (
-    <DataTest/>
+    <HomePage/>
   )
 }
 
